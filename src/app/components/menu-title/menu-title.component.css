@@ -14,4 +14,5 @@
 .container_menu-title > hr {
     margin-top: 15px;
     margin-bottom: 15px;
+    border-color: gray;
 }

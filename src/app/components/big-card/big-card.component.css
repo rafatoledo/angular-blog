@@ -1,8 +1,7 @@
-.container_big-card{
-    border: solid white 2px;
+.container_big-card{    
     margin-left: 20px;
     margin-right: 20px;
-    width: 700px;
+    width: 450px;
     height: 600px;
 
     display: flex;
@@ -23,5 +22,5 @@
 
 .big-card_photo > img {
     width: 100%;
-    min-width: 700px;
+    min-width: 450px;
 }
